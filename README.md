@@ -1,5 +1,14 @@
 # 📘 Trabajo Práctico — ONG “Impulso Joven”
 
+# Comision 04:
+
+## Grupo 10:
+
+- Barberi Rafael
+- Franco Pizarro
+- Marcos Autalan
+- Maite Magaldi
+
 ## 🧾 Descripción del proyecto
 
 ## Este proyecto consiste en el desarrollo de un **sitio web institucional de una ONG ficticia**, como parte de la materia _Taller de lenguajes de marcado t tecnologias web_.
