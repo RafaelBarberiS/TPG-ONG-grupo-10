@@ -39,19 +39,19 @@ Ser una organización referente en inclusión social juvenil en Latinoamérica.
 
 # 📄 Contenido de cada página
 
-## 🏠 index.html — Inicio
+## 🏠 index.html — Inicio -> Rafael
 
 ---
 
-## 🧑‍🤝‍🧑 nosotros.html — Institucional
+## 🧑‍🤝‍🧑 nosotros.html — Institucional ->Maite
 
 ---
 
-## 📚 programas.html — Programas
+## 📚 programas.html — Programas ->Franco
 
 ---
 
-## 📞 contacto.html — Contacto
+## 📞 contacto.html — Contacto ->Marcos
 
 ### Debe incluir:
 
