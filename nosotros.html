@@ -72,7 +72,37 @@
                     <dt>Ámbito</dt>
                     <dd>Educación y empleo juvenil</dd>
                 </dl>
-            </aside>    
+            </aside>
+            <form action="/enviar" method="post" >
+                <h3>Si te interesa ser parte de nuestro voluntariado, envíanos tus datos y nos contactaremos para programar una entrevista</h3>
+                <br>
+                <label for="nombre">Nombre completo</label>
+                <input type="text" id="nombre" name="nombre" placeholder="Ej: Ana Díaz" required>
+                <br><br>
+                <label for="email">Email</label>
+                <input id="email" type="email" name="email" placeholder="Ej:tucuenta@correo.com" required>
+                <br><br>
+                <label for="estudios">Nivel de estudios</label>
+                <select id="estudios" name="estudios" required>
+                    <option value="">Seleccione</option>
+                    <option value="sc">Secundario completo</option>
+                    <option value="ui">Universitario incompleto</option>
+                    <option value="uc">Universitario completo</option>
+                </select>
+                <br><br>    
+                <label for="disponibilidad">Disponibilidad</label>
+                <select id="disponibilidad" name="disponibilidad">
+                    <option value="m">Mañana</option>
+                    <option value="t">Tarde</option>
+                    <option value="n">Noche</option>
+                </select>
+                <br><br>
+                <label for="mensaje">Contanos sobre vos</label>
+                <br>
+                <textarea id="mensaje" name="mensaje" rows="5" placeholder="Ej: contanos por qué te interesa ser voluntario y que tenés para ofrecer"></textarea>
+                <br><br>
+                <button type="submit">Envíar</button>
+            </form>   
         </main>
 
         <footer>
